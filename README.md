@@ -1,7 +1,7 @@
-Role: Natural Language Processing Researcher
-Timeline: September - December 2023
-Company: ASAPP
-Purpose: Finetune a Large Language Model to help customer service agents respond more effectively and increase productivity. 
+Role: Natural Language Processing Researcher \
+Timeline: September - December 2023 \
+Company: ASAPP \ 
+Purpose: Finetune a Large Language Model to help customer service agents respond more effectively and increase productivity. \
 
 ## Introduction 
 For this project, I worked with ASAPP, leveraging AI to support companies in improving customer experience and productivity, delivering automation and human augmentation, allowing individuals and organizations to realize their full potential. My project focused specifically on the question: How can Large Language Models support customer service agents to provide the best responses to customer questions? In order to answer this question, I broke down the task into three different steps: data preprocessing, model training, and model evaluation. I also designed the project to test 3 different hypotheses:
